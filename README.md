@@ -1,4 +1,4 @@
-# meron-git-lessons
+# merion-git-lessons
 
 Test project
 Мы продолжаем работать с GIT
